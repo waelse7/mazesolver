@@ -1,4 +1,4 @@
-from cells import Cell, Point, Line
+from cells import Cell
 import random
 import time
 class Maze:
